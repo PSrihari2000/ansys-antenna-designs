@@ -19,4 +19,4 @@ A monopole antenna is typically λ/4 in length and requires a ground plane.
 
 ## Usage
 
-Open the `.aedt` file in ANSYS HFSS to view and simulate.
+Open the `.aedt` file in ANSYS HFSS to view and simulate the results.
