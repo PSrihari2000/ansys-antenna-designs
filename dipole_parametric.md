@@ -18,4 +18,4 @@ Helps understand how antenna design parameters impact performance.
 
 ## Usage
 
-Open the `.aedt` file in ANSYS HFSS and run the parametric sweep.
+Open the `.aedt` file in ANSYS HFSS and run the parametric sweep and observe the results.
